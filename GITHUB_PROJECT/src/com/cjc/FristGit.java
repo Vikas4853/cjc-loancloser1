@@ -9,7 +9,8 @@ public class FristGit {
 
 	public void B()  {
 		
-		
+		int a=1;
+		String b="abc";
 	System.out.println("B method created in git and pull ");	
 	}
 	
