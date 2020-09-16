@@ -15,7 +15,8 @@ public class FristGit {
 	}
 	
 	public static void main(String[] args) {
-		
+		int c=2;
+		String d="xys";
 		System.out.println("Run git project");
 		
 	}
