@@ -16,6 +16,15 @@ public class FristGit {
 		System.out.println("Team- 1 git ouput");
 		
 	}
+	public void D()  {
+		
+		int d=1;
+		String h="abc";
+	System.out.println("D method created in git and pull ");
+		
+		
+		
+	}
 	
 	public static void main(String[] args) {
 		int c=2;
