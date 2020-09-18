@@ -12,6 +12,14 @@ public class FristGit {
 		int a=1;
 		String b="abc";
 	System.out.println("B method created in git and pull ");	
+
+	}
+
+	public void A()  {
+		
+		int a=2;
+		String b="BBB";
+	System.out.println("A method created in git and pull ");	
 	}
 	
 	public static void main(String[] args) {
@@ -19,7 +27,7 @@ public class FristGit {
 		String d="xys";
 		System.out.println("Run git project");
 		
-	System.out.println("Team-2 github project");
+	
 
 		
 	}
