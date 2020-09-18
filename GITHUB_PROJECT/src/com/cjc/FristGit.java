@@ -13,6 +13,11 @@ public class FristGit {
 		String b="abc";
 
 	}
+	public void C()  {
+		
+		int c=1;
+		String v="adc";
+
 	
 	public static void main(String[] args) {
 		int c=2;
