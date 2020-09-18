@@ -19,6 +19,9 @@ public class FristGit {
 		String d="xys";
 		System.out.println("Run git project");
 		
+	System.out.println("Team-2 github project");
+
+		
 	}
 	
 }
