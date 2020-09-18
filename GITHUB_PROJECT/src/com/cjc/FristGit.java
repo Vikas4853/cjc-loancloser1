@@ -15,7 +15,7 @@ public class FristGit {
 
 	}
 
-	public void A()  {
+	public void Z()  {
 		
 		int a=2;
 		String b="BBB";
